@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "position": "open",
+      "value": "#f00",
+      "num": 1
+    },
+    {
+      "position": "closed",
+      "value": "#0f0",
+      "num": 2
+    },
+    {
+      "position": "open",
+      "value": "#00f",
+      "num": 3
+    },
+    {
+      "position": "closed",
+      "value": "#0ff",
+      "num": 4
+    },
+    {
+      "position": "open",
+      "value": "#f0f",
+      "num": 5
+    },
+    {
+      "position": "open",
+      "value": "#ff0",
+      "num": 6
+    },
+    {
+      "position": "closed",
+      "value": "#000",
+      "num": 7
+    },
+    {
+      "position": "open",
+      "value": "#f00",
+      "num": 8
+    },
+    {
+      "position": "open",
+      "value": "#0f0",
+      "num": 9
+    },
+    {
+      "position": "open",
+      "value": "#00f",
+      "num": 10
+    },
+    {
+      "position": "open",
+      "value": "#0ff",
+      "num": 11
+    },
+    {
+      "position": "open",
+      "value": "#f0f",
+      "num": 12
+    },
+    {
+      "position": "open",
+      "value": "#ff0",
+      "num": 13
+    },
+    {
+      "position": "open",
+      "value": "#000",
+      "num": 14
+    }
+  ]
+}
