@@ -4,7 +4,7 @@ const express = require("express");
 const app = express();
 const fs = require("fs");
 
-app.post("/", (req, res) => {
+app.get("/", (req, res) => {
   fs.readFile("./data.json", "utf8", (err, dataRead) => {
     if (err) {
       res.send(err);
